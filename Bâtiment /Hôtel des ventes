@@ -1,14 +1,27 @@
-Bâtiment Hôtel des ventes 
+Nom du Bâtiment : Hôtel des ventes 
 
-Ville : ***********
-ID du joueur : **********
-Durée de l’offre : J-30 
+ID du Batiment :******
+interaction radius :******
+Position : ***********
+
+Taxe d’hôtel ventes :******
+Carnet d'offre d'achat :******
+Carnet d'offre de vente :*****
+Durée de l’offre : J-30
 Prix de l’offre :***********
-Taxe de l’hôtel des ventes :******
-Liste Offre d’achat :**********
-Liste Offre de vente : ***********
-iD item : **********
-Loot : global 
+ID des joueurs : **********
+Vente rapide PNJ prix fixe :******
+Statut : active,vendu,expiré,annuler
+
+Type d'ordre :
+vente direct / achat direct
+Ordre d'achat / ordre de vente
+
+Slot Carnet : Non défini
+Stack Carnet :999
+Historique d'Achat et Vente :*********
 Tier : T1,T2,T3,T4,T5,T6,T7,T8
-Slot : Non défini
-Stack :999
+Enchantement : 0 .1 .2 .3 .4
+
+Qualité :Normal,bon,Remarquable,
+Exceptionnel,chef-d'œuvre
