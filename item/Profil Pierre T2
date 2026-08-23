@@ -4,4 +4,10 @@ nom : Pierre
 ID : *******
 Tier :T2
 Prix plancher : ******
-Enchantement : 0
+
+Enchantement:
+0 (Standard)
+1 (Insolite - Vert)
+2 (Rare - Bleu)
+3 (Exceptionnel - Violet)
+4 (Pristin - Rose)
