@@ -1,16 +1,28 @@
-Joueur 
+pseudo du Joueur :*********
+ID :********
+Position :XYZ
+Client : IP de la machine
 
-ID du joueur :
-Client :
-Position :
-Appartenance :
-Item Power :
-PV : 
-Compétences / Métier :
-Loot : 
-Tier : 
-Poids Inventaire :
-Slot :
-Stack :
-Silver :
-Or :
+Premium :******
+Silver :******
+Or :******
+PV :******
+Appartenance :******
+Item Power :*******
+
+Compétences / Métier 
+La Renommée :******
+La Renommée jaune :******
+
+
+Inventaire
+Slot :128
+Stack :999
+Poids Inventaire :*****
+
+Liste ID Loot
+Liste ID Loot Tier : 1,2,3
+Liste ID Loot Tier : 4,5,6,7,8
+Liste ID Loot Tier Loot Enchanté : 4,5,6,7,8
+
+
