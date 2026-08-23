@@ -1,0 +1,2 @@
+"Si le Tier est inférieur à 4,
+alors la variable d'enchantement est bloquée à 0 (ou ignorée)."
