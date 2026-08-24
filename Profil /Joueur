@@ -1,32 +1,39 @@
-Pseudo du Joueur :*********
-ID :********
-Position :XYZ
-interaction radius :******
-Client : IP de la machine
-
-Premium :******
-Silver :******
-Or :******
-PV :******
-dégâts :******
-Vitesse :*****
-Appartenance :******
-Item Power :*******
-
-Compétences / Métier 
-La Renommée :******
-La Renommée jaune :******
-
-
-Inventaire
-Slot :128
-Stack :999
-Poids Inventaire :*****
-
-Liste ID Loot
-Liste ID Loot Tier : 1,2,3
-Liste ID Loot Tier : 4,5,6,7,8
-Liste ID Loot Tier Loot Enchanté : 4,5,6,7,8
+profil_joueur:
+  pseudo: "NomDuJoueur"
+  id: "USR_987654"
+  position:
+    x: 100.5
+    y: 0.0
+    z: 250.2
+  rayon_interaction: 3.5
+  client: "192.168.1.50"
+  
+  # Statistiques et Économie
+  premium: true
+  silver: 150400
+  or: 250
+  pv: 1250
+  degats: 145
+  vitesse: 12.5
+  appartenance: "Guilde_Alpha"
+  item_power: 1420
+  
+  # Progression
+  competences_metier:
+    renommee: 450000
+    renommee_jaune: 12500
+    
+  # Inventaire
+  inventaire:
+    slots_totaux: 128
+    stack_maximum: 999
+    poids_actuel: 45.2
+    
+  # Loot autorisé par tiers
+  liste_id_loot:
+    tiers_standard: [1, 2, 3]
+    tiers_superieurs: [4, 5, 6, 7, 8]
+    tiers_enchantes: [4, 5, 6, 7, 8]
 
 
 
