@@ -1,15 +1,30 @@
-Nom du Minerai :******
-ID :******
-Position :XYZ
-interaction radius :******
-
-Temps de Spone :*****
-
-Tier : T1,T2,T3,T4,T5,T6,T7,T8
-Enchantement : .0 .1 .2 .3 .4
-
-Probabilité : .0 %*****
-Probabilité : .1 %*****
-Probabilité : .2 %*****
-Probabilité : .3 %*****
-Probabilité : .4 %*****
+noeud_minerai:
+  nom: "Cristal d'Éther"
+  id: "ORE_T8_CRYSTAL"
+  position:
+    x: 1250.5
+    y: 45.0
+    z: 300.2
+  interaction_radius: 5.0
+  temps_de_respawn: 3600 # en secondes
+  tiers_disponibles:
+    - T1
+    - T2
+    - T3
+    - T4
+    - T5
+    - T6
+    - T7
+    - T8
+  enchantement:
+    niveau_0: "Standard"
+    niveau_1: "Insolite - Vert"
+    niveau_2: "Rare - Bleu"
+    niveau_3: "Exceptionnel - Violet"
+    niveau_4: "Pristin - Rose"
+  probabilites_enchantement:
+    niveau_0: 70.0  # en %
+    niveau_1: 20.0
+    niveau_2: 7.0
+    niveau_3: 2.5
+    niveau_4: 0.5
